@@ -11,7 +11,6 @@ I'm a **Computer Science major** at **Trinity College** with demonstrated hands-
 I am committed to continuous technical and professional growth, with a strong interest in applying technology to impactful fields like **Education Technology (EdTech)** and **Health Technology (HealthTech)**.
 
 * **Core Strengths:** Proficiency in Java, JavaScript, data structures, and algorithms.
-* **Future Goal:** To attend the **NYU Paris Study Away program** to focus on **Artificial Intelligence** and **Data Management**.
 
 ---
 
