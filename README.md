@@ -1,6 +1,6 @@
 # Hi, I'm Pat 👋
 
-### Software Development Intern | Full-Stack Aspirant (EdTech & HealthTech) | Trinity College CS
+### | Trinity College CS
 
 ---
 
